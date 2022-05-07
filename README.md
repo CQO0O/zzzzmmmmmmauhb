@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-CQO0O/CQO0O is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CQO0O/CQO0O is a ✨ special ✨ repository because its `CQO0O` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
